@@ -1,6 +1,7 @@
 # Jaquetest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+and node version 12.13.1
 
 ## Development server
 
